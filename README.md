@@ -1,5 +1,6 @@
 ## How I made this pages?
 
-I use [Jekyll Indigo Theme][1] to make my GitHub Pages. Check more information on this [repo][1].
+- I've used jekyll <a href="https://github.com/sergiokopplin/indigo" target="_blank">indigo</a> theme to make my <a href="https://duonghominhhuy.github.io" target="_blank">github pages</a>.
 
-[1]: https://github.com/sergiokopplin/indigo
+
+- Check more information on <a href="https://github.com/sergiokopplin/indigo" target="_blank">the original repo</a>.
