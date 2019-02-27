@@ -16,7 +16,11 @@ description: "Understading the Swift Basic Operators."
 
 ### Introduction
 
-An operator is a special symbol or phrase that you use to check, change, or combine values. For example, the addition operator (+) adds two numbers, as in let i = 1 + 2, and the logical AND operator (&&) combines two Boolean values, as in if isLoggedIn && isUpdatedProfile.
+An operator is a special symbol or phrase that you use to check, change, or combine values. 
+
+For example: 
+- The addition operator (+) adds two numbers, as in ```let i = 1 + 2```. 
+- The logical AND operator (&&) combines two Boolean values, as in ```if isLoggedIn && isUpdatedProfile```.
 
 ---
 
