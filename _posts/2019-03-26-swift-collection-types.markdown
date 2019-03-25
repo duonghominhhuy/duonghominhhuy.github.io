@@ -1,7 +1,7 @@
 ---
 title: "Swift - Part 4: Collection Types"
 layout: post
-date: 2019-03-25 19:30
+date: 2019-03-26 19:30
 image: \assets\blog\apple-ios.png
 headerImage: false
 tag:
