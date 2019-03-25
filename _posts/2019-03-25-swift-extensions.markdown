@@ -1,5 +1,5 @@
 ---
-title: "Swift Extensions"
+title: ":snail: Swift Extensions :+1:"
 layout: post
 date: 2019-03-25 13:17
 image: /assets/blog/apple-ios.png
