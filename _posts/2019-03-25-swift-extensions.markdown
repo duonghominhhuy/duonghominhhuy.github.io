@@ -1,5 +1,5 @@
 ---
-title: ":snail: Swift Extensions :+1:"
+title: ":heart: Swift Extensions :parasol_on_ground:"
 layout: post
 date: 2019-03-25 13:17
 image: /assets/blog/apple-ios.png

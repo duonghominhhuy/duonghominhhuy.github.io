@@ -13,8 +13,8 @@ layout: page
 <h2>Technical Skills</h2>
 
 <ul class="skill-list">
-	<li>Languages: Swift (primary), Objective-C, Python, Kotlin</li>
-	<li>Software: Xcode, Visual Studio Code, Android Studio, Sketch</li>
+	<li>Languages: Swift (primary), Objective-C</li>
+	<li>Software: Xcode, Visual Studio Code, Sketch</li>
 	<li>Tools: Git, Terminal, Sourcetree, Trello, Redmine</li>
 	<li>Databases: Core Data, Realm, SQLite</li>
 	<li>Quality Control: Unit Testing, UI Testing, Instruments</li>
