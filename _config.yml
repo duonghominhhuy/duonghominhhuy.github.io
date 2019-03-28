@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: false
-resume-url: https://duonghominhhuy.github.io
+resume: true
+resume-external: true
+resume-url: https://duonghominhhuy.github.io/resume.pdf
 
 # url: https://duonghominhhuy.github.io
 # your url: http://duonghominhhuy.github.io

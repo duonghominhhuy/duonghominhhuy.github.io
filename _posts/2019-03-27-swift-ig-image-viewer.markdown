@@ -17,14 +17,14 @@ description: "Swift IG Image Viewer."
 
 ![Screenshot](https://raw.githubusercontent.com/duonghominhhuy/duonghominhhuy.github.io/master/assets/project/swift-ig-image-viewer.png)
 
- <a href="https://github.com/duonghominhhuy/swift-ig-image-viewer" target="_blank">Swift IG Image Viewer</a> library is an image viewer with pinch & zoom gesture like Instagram.
+ <a href="https://github.com/duonghominhhuy/swift-ig-image-viewer" target="_blank">Swift IG Image Viewer</a> is an image viewer library with pinch & zoom gesture like Instagram behavior.
 
 ---
 
 WHAT HAS INSIDE?
 
-- Zoom image in/out like the Instagram behavior.
-- Background fade in/out when zooming.
+- Zooming image in/out like the Instagram behavior.
+- Background fading in/out when zooming.
 - Support zooming from image in a tableview cell & collectionviewcell.
 
 ---

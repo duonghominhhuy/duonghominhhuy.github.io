@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am an iOS Developer from HCMC, Vietnam, with over three years involved in the software industry. Currently, I'm an iOS Engineer at <a href="https://seasoft.asia">SEASOFT</a> Vietnam.</p>
+<p>I'm an iOS Developer from HCMC, Vietnam, with over three years involved in the software industry. Currently, I'm an iOS Engineer at <a href="https://seasoft.asia">SEASOFT</a> Vietnam.</p>
 
 <p>Previously, I was an iOS Engineer at <a href="https://www.hdwebsoft.com">HDWEBSOFT</a>, where I have chances to develop a number of great mobile applications.</p>
 

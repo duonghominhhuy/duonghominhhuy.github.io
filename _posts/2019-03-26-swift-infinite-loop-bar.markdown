@@ -17,15 +17,15 @@ description: "Swift Infinite Loop Bar."
 
 ![Screenshot](https://raw.githubusercontent.com/duonghominhhuy/duonghominhhuy.github.io/master/assets/project/swift-infinite-loop-bar.png)
 
- <a href="https://github.com/duonghominhhuy/swift-infinite-loop-bar" target="_blank">Swift Infinite Loop Bar</a> is a infinite scrolling bar library helping you build a great app with customized features.
+ <a href="https://github.com/duonghominhhuy/swift-infinite-loop-bar" target="_blank">Swift Infinite Loop Bar</a> is an infinite scrolling bar library helping you build a great pager tab bar UI with customized features.
 
 ---
 
 WHAT HAS INSIDE?
 
-- Top/bottom scrolling bar.
+- Top/bottom bar position.
 - Enable/disable infinite scrolling feature.
-- Default selected item at index.
+- Select default item by index.
 
 ---
 
