@@ -1,6 +1,6 @@
 # main text of home
 name: Huy Duong
-bio: iOS Developer
+bio: Mobile Developer
 
 # twitter summary info
 description: Huy Duong Portfolio
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://duonghominhhuy.github.io/resume.pdf
+resume-url: https://duonghominhhuy.github.io/assets/files/resume.pdf
 
 # url: https://duonghominhhuy.github.io
 # your url: http://duonghominhhuy.github.io
@@ -22,7 +22,7 @@ resume-url: https://duonghominhhuy.github.io/resume.pdf
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-132556113-1'
+analytics-google: "UA-132556113-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -34,38 +34,38 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: roostercoder
+facebook: duonghominhhuy
 twitter: duonghominhhuy
 # google: duonghominhhuy
 # instagram: duonghominhhuy
 # pinterest: duonghominhhuy
-linkedin: duonghominhhuy
+linkedin: huyduong380
 # youtube: duonghominhhuy
 # spotify: duonghominhhuy
 github: duonghominhhuy
 # gitlab: duonghominhhuy
 # lastfm: duonghominhhuy
 # stackoverflow: 397613/huy-duong
-# quora: 
+# quora:
 # reddit: duonghominhhuy
 medium: duonghominhhuy
 # vimeo: duonghominhhuy
 # lanyrd: duonghominhhuy
-email: duonghominhhuy@gmail.com
+email: huyduong380@gmail.com
 
 authors:
-    duonghominhhuy:
-        name: Huy Duong
-        bio: iOS Developer
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: duonghominhhuy
-    huyduong:
-        name: Huy Duong
-        bio: iOS Developer
-        external-image: false
-        picture: assets/images/huyduong.jpg
-        twitter: huyduong
+  duonghominhhuy:
+    name: Huy Duong
+    bio: Mobile Developer
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: duonghominhhuy
+  huyduong:
+    name: Huy Duong
+    bio: Mobile Developer
+    external-image: false
+    picture: assets/images/huyduong.jpg
+    twitter: huyduong
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -109,4 +109,4 @@ plugins:
   - jemoji
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
