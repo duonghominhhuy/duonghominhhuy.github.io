@@ -5,7 +5,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a Master's student of Computer Science in the U.S . Currently, I'm living in Fort Worth, Texas and looking for an opportunities to work full-time as a Mobile Engineer.</p>
+<p>I'm a Master's student of Computer Science in the U.S. Currently, I'm living in Fort Worth, Texas and looking for an opportunity to work full-time as a Mobile Engineer.</p>
 
 <p>Previously, I was an iOS Engineer with over three years working at <a href="https://seasoft.asia">SEASOFT Vietnam</a> and <a href="https://www.hdwebsoft.com">HDWEBSOFT</a>, where I have chances to develop a number of great mobile applications.</p>
 
