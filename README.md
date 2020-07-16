@@ -1,6 +1,11 @@
-## How I made this pages?
+# Portfolio GitHub Pages Hosting
 
-- I've used jekyll <a href="https://github.com/sergiokopplin/indigo" target="_blank">indigo</a> theme to make my <a href="https://duonghominhhuy.github.io" target="_blank">github pages</a>.
+Visit my page at [https://duonghominhhuy.github.io](https://duonghominhhuy.github.io)
+
+### How I made this pages?
+
+- I used Jekyll <a href="https://github.com/sergiokopplin/indigo" target="_blank">Indigo</a> theme to make my <a href="https://duonghominhhuy.github.io" target="_blank">Github Pages</a>.
+
+- Check more details on <a href="https://github.com/sergiokopplin/indigo" target="_blank">the author's repo</a>.
 
 
-- Check more information on <a href="https://github.com/sergiokopplin/indigo" target="_blank">the original repo</a>.
