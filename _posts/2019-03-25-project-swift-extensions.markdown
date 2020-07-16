@@ -2,7 +2,6 @@
 title: Swift Extensions
 layout: post
 date: '2019-03-25 10:30:00'
-image: "/assets/blog/apple-ios.png"
 projects: true
 tag:
 - library
@@ -13,7 +12,7 @@ author: huyduong
 description: Swift Extensions Library.
 ---
 
-![Screenshot](../assets/project/swift-extensions.jpg)
+![Banner](../assets/project/swift-extensions.jpg)
 
  <a href="https://github.com/CodePassion-dev/swift-extensions" target="_blank">Swift Extensions Library</a> is a collection of Swift programming language Extensions for the developers who want to write effective and cleanable Swift code.
 
@@ -47,6 +46,6 @@ description: Swift Extensions Library.
 
 Check out the <a href="https://github.com/CodePassion-dev/swift-extensions" target="_blank">GitHub repository</a>.
 
-You're welcome for the contribution, just <a href="https://github.com/CodePassion-dev/swift-extensions/issues" target="_blank">create a pull requests</a>.
+You're welcome for the contribution, just <a href="https://github.com/CodePassion-dev/swift-extensions/issues" target="_blank">create a pull request</a>.
 
 ---

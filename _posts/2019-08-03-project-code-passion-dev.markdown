@@ -2,7 +2,6 @@
 title: CodePassion.dev
 layout: post
 date: '2019-08-03 9:49:00'
-image: "/assets/blog/apple-ios.png"
 projects: true
 tag:
 - programming
@@ -10,10 +9,10 @@ tag:
 - website
 category: project
 author: huyduong
-description: Swift Extensions Library.
+description: CodePassion.dev Website
 ---
 
-![Screenshot](../assets/project/code-passion-dev.png)
+![Banner](../assets/project/code-passion-dev.png)
 
  <a href="https://codepassion.dev" target="_blank">CodePassion.dev</a> is a programming and software development website. On this site, I am focusing on writing articles about computer science, tips, tricks, and tutorials that may help readers resolve their specific technical problems.
 

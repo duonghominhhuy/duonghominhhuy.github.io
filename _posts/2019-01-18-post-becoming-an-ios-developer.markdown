@@ -2,7 +2,6 @@
 title: Becoming an iOS Developer
 layout: post
 date: 2019-01-21 18:00
-image: "/assets/blog/apple-ios.png"
 tag:
 - apple
 - developer

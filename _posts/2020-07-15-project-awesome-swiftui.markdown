@@ -2,7 +2,6 @@
 title: Awesome SwiftUI
 layout: post
 date: '2020-07-15 16:00:00'
-image: "/assets/blog/apple-ios.png"
 projects: true
 tag:
 - library
@@ -11,10 +10,10 @@ tag:
 - ios
 category: project
 author: huyduong
-description: Swift Extensions Library.
+description: Awesome SwiftUI collection.
 ---
 
-![Screenshot](https://raw.githubusercontent.com/duonghominhhuy/duonghominhhuy.github.io/master/assets/project/swift-extensions.jpg)
+![Banner](../assets/project/awesome-swiftui.png)
 
  <a href="https://github.com/duonghominhhuy/swift-extensions" target="_blank">Swift Extensions Library</a> is a collection of Swift programming language Extensions for the developers who want to write Swift code in the much more effective way.
 
