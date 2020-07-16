@@ -1,9 +1,8 @@
 ---
-title: "How to Become an iOS Developer"
+title: Becoming an iOS Developer
 layout: post
 date: 2019-01-21 18:00
-image: /assets/blog/apple-ios.png
-headerImage: false
+image: "/assets/blog/apple-ios.png"
 tag:
 - apple
 - developer
@@ -11,12 +10,12 @@ tag:
 - programming
 category: blog
 author: huyduong
-description: "Getting started to become an iOS developer"
+description: Getting started to become an iOS developer
 ---
 
 ### Introduction
 
-This is a brief tutorial showing you some minimum requirements you should achieve to become iOS Developer.
+This is a brief introduction showing you some minimum requirements you should preapre to become an iOS Developer.
 
 ---
 
@@ -24,7 +23,7 @@ This is a brief tutorial showing you some minimum requirements you should achiev
 
 <div class="side-by-side">
     <div class="toleft">
-        <p>First of all, you must have the <a href="https://www.apple.com/mac/" target="_blank">Mac computer</a>. It's mean that you have to buy a Macbook Pro or any other kind of Mac family like Mac Mini, Mac Pro, Macbook Air.</p>
+        <p>Firstly, you must have the <a href="https://www.apple.com/mac/" target="_blank">Mac computer</a>. You have to buy a Macbook Pro or any kind of macOS computer family like Mac Mini, Mac Pro, Macbook Air.</p>
         <p>I strongly recommend the computer should be at least 16GB of RAM and running the latest macOS version.</p>
     </div>
 
@@ -45,8 +44,8 @@ This is a brief tutorial showing you some minimum requirements you should achiev
     </div>
 
     <div class="toright">
-        <p>This is recommended, you should have the physical iOS devices like <a href="https://www.apple.com/iphone/" target="_blank">iPhone</a> or <a href="https://www.apple.com/ipad/" target="_blank">iPads</a>, or <a href="https://www.apple.com/watch/" target="_blank">Apple Watch</a> if you are going to develop Watch Apps.</p>
-        <p>It's sound like a lot when you get start the journey but it will be worth it.</p>
+        <p>This is a recommendation, you should have the physical iOS devices like <a href="https://www.apple.com/iphone/" target="_blank">iPhones</a>, <a href="https://www.apple.com/ipad/" target="_blank">iPads</a>, or <a href="https://www.apple.com/watch/" target="_blank">Apple Watch</a> if you are going to develop Watch Apps.</p>
+        <p>It's sound like a lot when you are get started the journey but it will be worth it.</p>
     </div>
 </div>
 
@@ -57,7 +56,7 @@ This is a brief tutorial showing you some minimum requirements you should achiev
 <div class="side-by-side">
     <div class="toleft">
         <p>If you haven't enroll the Apple Developer Program yet, start now from <a href="https://developer.apple.com/programs/enroll/" target="_blank">Apple Developer Program</a> and resgister one.</p>
-        <p>For a basic development, you can use the free account. But in order to submit your app to the App Store, you must enroll the paid account which is $99/year.</p>
+        <p>Basically, you could use a free account. But in order to submit your apps to the App Store, you must enroll the paid account which is $99/year.</p>
     </div>
 
     <div class="toright">
@@ -77,7 +76,7 @@ This is a brief tutorial showing you some minimum requirements you should achiev
     </div>
 
     <div class="toright">
-        <p>Install <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> from the Mac App Store, that's your IDE that you will use to develop Apple native applications including iOS, macOS, tvOS, and watchOS applications.</p>
+        <p>Install <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> from the Mac App Store, that's the IDE that you will use to develop Apple native applications including iOS, macOS, tvOS, and watchOS applications.</p>
     </div>
 </div>
 
@@ -108,11 +107,12 @@ This is a brief tutorial showing you some minimum requirements you should achiev
     </div>
 
     <div class="toright">
-        <p>Now if you have a basic understading of Swift and Xcode, let's get start to develop your very first Apple application.</p>
+        <p>If all things are setted up, let's get started to build your very first Hello World application.</p>
+				<p>Getting your hand dirty, start with small things and you will gain more a long the way.</p>
     </div>
 </div>
 
-If you have some trouble when getting started, let's check out some useful websites below (you will love it).
+If you have troubles when getting started, let's check out some useful websites below (you will love it).
 1. [Ray Wenderlich](https://www.raywenderlich.com){:target="_blank"}
 2. [AppCoda](https://www.appcoda.com){:target="_blank"}
 3. [Apple Document](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html){:target="_blank"}
@@ -124,7 +124,7 @@ If you have some trouble when getting started, let's check out some useful websi
 <div class="side-by-side">
     <div class="toleft">
         <p>Ensure your app was fully tested before submitting to the App Store.</p>
-        <p>Check out the <a href="https://developer.apple.com/ios/submit/" target="_blank">submit required</a> from Apple and follow it. Your app will be ready for review and publish.</p>
+        <p>Check out the <a href="https://developer.apple.com/ios/submit/" target="_blank">submit required</a> from Apple and follow the guidelines. Your app will be ready for reviewing and publishing.</p>
     </div>
 
     <div class="toright">
