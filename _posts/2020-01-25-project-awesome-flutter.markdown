@@ -4,10 +4,10 @@ layout: post
 date: '2020-01-25 15:30:00'
 projects: true
 tag:
+- flutter
+- dart
 - library
 - framework
-- swift
-- ios
 category: project
 author: huyduong
 description: Awesome Flutter collection.

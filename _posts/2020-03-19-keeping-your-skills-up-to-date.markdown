@@ -1,14 +1,13 @@
 ---
-title: "Keeping your Skills Up-to-date"
+title: Keeping your Skills Up-to-date
 layout: post
 date: 2020-06-18 11:45
-image: /assets/blog/apple-ios.png
-headerImage: false
+image: "/assets/blog/apple-ios.png"
 tag:
-  - programming
+- programming
 category: blog
 author: huyduong
-description: "Always stay up-to-date with the current technology."
+description: Always stay up-to-date with the current technology.
 ---
 
 ### Introduction
