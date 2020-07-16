@@ -37,7 +37,7 @@ disqus:
 facebook: duonghominhhuy
 twitter: duonghominhhuy
 # google: duonghominhhuy
-# instagram: duonghominhhuy
+instagram: duonghominhhuy
 # pinterest: duonghominhhuy
 linkedin: huyduong380
 # youtube: duonghominhhuy
@@ -48,9 +48,10 @@ github: duonghominhhuy
 # stackoverflow: 397613/huy-duong
 # quora:
 # reddit: duonghominhhuy
-medium: duonghominhhuy
+# medium: duonghominhhuy
 # vimeo: duonghominhhuy
 # lanyrd: duonghominhhuy
+website: codepassion.dev
 email: huyduong380@gmail.com
 
 authors:
@@ -73,7 +74,7 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
+paginate: 5
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
