@@ -107,6 +107,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-admin
+  - jekyll-paginate
   - jemoji
 
 jekyll-mentions:
