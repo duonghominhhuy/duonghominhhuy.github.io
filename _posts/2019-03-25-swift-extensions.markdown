@@ -6,23 +6,22 @@ image: "/assets/blog/apple-ios.png"
 projects: true
 tag:
 - library
-- framework
 - swift
-- ios
+- framework
 category: project
 author: huyduong
 description: Swift Extensions Library.
 ---
 
-![Screenshot](https://raw.githubusercontent.com/duonghominhhuy/duonghominhhuy.github.io/master/assets/project/swift-extensions.jpg)
+![Screenshot](../assets/project/swift-extensions.jpg)
 
- <a href="https://github.com/duonghominhhuy/swift-extensions" target="_blank">Swift Extensions Library</a> is a collection of Swift programming language Extensions for the developers who want to write Swift code in the much more effective way.
+ <a href="https://github.com/CodePassion-dev/swift-extensions" target="_blank">Swift Extensions Library</a> is a collection of Swift programming language Extensions for the developers who want to write effective and cleanable Swift code.
 
 ---
 
-WHAT HAS INSIDE?
+## WHAT'S INSIDE?
 
-*Swift Foundation*
+### Swift Foundation
 - Array Extensions
 - Date Extensions
 - Double Extensions
@@ -30,7 +29,7 @@ WHAT HAS INSIDE?
 - String Extensions
 - UserDefaults Extensions
 
-*Swift UIKit*
+### Swift UIKit
 - UIApplication Extensions
 - UIButton Extensions
 - UIColor Extensions
@@ -46,7 +45,8 @@ WHAT HAS INSIDE?
 
 ---
 
-Check it out <a href="https://github.com/duonghominhhuy/swift-extensions" target="_blank">here</a>.
-If you need some help, just <a href="https://github.com/duonghominhhuy/swift-extensions/issues" target="_blank">tell me</a>.
+Check out the <a href="https://github.com/CodePassion-dev/swift-extensions" target="_blank">GitHub repository</a>.
+
+You're welcome for the contribution, just <a href="https://github.com/CodePassion-dev/swift-extensions/issues" target="_blank">create a pull requests</a>.
 
 ---
