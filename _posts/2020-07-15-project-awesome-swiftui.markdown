@@ -1,7 +1,7 @@
 ---
 title: Awesome SwiftUI
 layout: post
-date: 2019-03-25 13:17
+date: '2020-07-15 16:00:00'
 image: "/assets/blog/apple-ios.png"
 projects: true
 tag:

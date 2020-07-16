@@ -1,7 +1,7 @@
 ---
 title: Swift Extensions
 layout: post
-date: 2019-03-25 13:17
+date: '2019-03-25 10:30:00'
 image: "/assets/blog/apple-ios.png"
 projects: true
 tag:
