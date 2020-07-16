@@ -1,9 +1,8 @@
 ---
-title: ":heart: Swift Extensions :parasol_on_ground:"
+title: Swift Extensions
 layout: post
 date: 2019-03-25 13:17
-image: /assets/blog/apple-ios.png
-headerImage: false
+image: "/assets/blog/apple-ios.png"
 projects: true
 tag:
 - library
@@ -12,7 +11,7 @@ tag:
 - ios
 category: project
 author: huyduong
-description: "Swift Extensions Library."
+description: Swift Extensions Library.
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/duonghominhhuy/duonghominhhuy.github.io/master/assets/project/swift-extensions.jpg)
