@@ -65,8 +65,20 @@
         </a>
     {% endif %}
 
-    {% if site.stackoverflow %}
-        <a class="link" data-title="stackoverflow.com/users/{{ site.stackoverflow }}" href="http://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank">
+    {% if site.stackoverflow-users %}
+        <a class="link" data-title="stackoverflow.com/users/{{ site.stackoverflow-users }}" href="http://stackoverflow.com/users/{{ site.stackoverflow-users }}" target="_blank">
+            <svg class="icon icon-stackoverflow"><use xlink:href="#icon-stackoverflow"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.stackoverflow-story %}
+        <a class="link" data-title="stackoverflow.com/story/{{ site.stackoverflow-story }}" href="http://stackoverflow.com/story/{{ site.stackoverflow-story }}" target="_blank">
+            <svg class="icon icon-stackoverflow"><use xlink:href="#icon-stackoverflow"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.stackoverflow-cv %}
+        <a class="link" data-title="stackoverflow.com/cv/{{ site.stackoverflow-cv }}" href="http://stackoverflow.com/cv/{{ site.stackoverflow-cv }}" target="_blank">
             <svg class="icon icon-stackoverflow"><use xlink:href="#icon-stackoverflow"></use></svg>
         </a>
     {% endif %}
