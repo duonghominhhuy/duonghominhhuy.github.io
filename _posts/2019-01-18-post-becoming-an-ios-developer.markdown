@@ -12,7 +12,7 @@ author: huyduong
 description: Getting started to become an iOS developer
 ---
 
-### Introduction
+### Foreword
 
 This is a brief introduction showing you some minimum requirements you should preapre to become an iOS Developer.
 
