@@ -1,18 +1,20 @@
 ---
-title: Keeping your Skills Up-to-date
+title: Keep Up To Date
 layout: post
-date: 2020-06-18 11:45
-image: "/assets/blog/apple-ios.png"
+date: '2020-03-19 07:30:00'
 tag:
+- developer
 - programming
 category: blog
 author: huyduong
-description: Always stay up-to-date with the current technology.
+description: Keep yourself up to date with the technology.
 ---
 
 ### Introduction
 
-Keeping your skills up-to-date is one of the most important things you must do to ensure your job will work well and stay on top of changing demands of the workplace.
+It's important to keep yourself up to date with the fast changing technology. From that, you are ensuring your knowledge won't be out of date and you will stay on top of changing demands of the workplace.
+
+![Banner](../assets/blog/keep-up-to-date.jpeg)
 
 ---
 
@@ -40,11 +42,21 @@ Keeping your skills up-to-date is one of the most important things you must do t
 
 ---
 
-### Keeping your skills up-to-date giving you the benefits
+### Benefits
 
-- Inspiration for other people.
-- Confidence to handle any tasks.
-- More valuable to your team by contributing.
-- Stay enthusiastic and flexible on your work.
+<div class="side-by-side">
+	<div class="toleft">
+        <img class="image" src="/assets/blog/relax.jpg" alt="Alt Text">
+        <figcaption class="caption"></figcaption>
+    </div>
+    <div class="toright">
+			<ul>
+				<li>Inspiration for other people.</li><br>
+				<li>Confidence to handle any tasks.</li><br>
+				<li>Stay enthusiastic and flexible on your work.</li><br>
+				<li>More valuable to your team by contributing.</li>
+				</ul>
+    </div>
+</div>
 
 ---
