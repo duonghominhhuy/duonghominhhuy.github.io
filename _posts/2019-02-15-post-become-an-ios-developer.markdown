@@ -1,11 +1,10 @@
 ---
-title: Becoming an iOS Developer
+title: Become an iOS Developer
 layout: post
-date: 2019-01-21 18:00
+date: '2019-02-15 18:00:00'
 tag:
-- apple
-- developer
 - ios
+- developer
 - programming
 category: blog
 author: huyduong
