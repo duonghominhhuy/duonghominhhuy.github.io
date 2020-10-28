@@ -1,5 +1,5 @@
 ---
-title: Efficiency Work and Time Management
+title: Efficiency Work, and Time Management
 layout: post
 date: '2020-08-12 18:30:00'
 tag:

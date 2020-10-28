@@ -1,5 +1,5 @@
 ---
-title: Become an iOS Developer
+title: Becoming an iOS Developer
 layout: post
 date: '2019-02-15 18:00:00'
 tag:
