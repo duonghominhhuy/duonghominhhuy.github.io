@@ -5,11 +5,11 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a grad student in Computer Science, living in Texas, and currently looking for an opportunity to work full-time as an iOS Developer.</p>
+<p>I am a grad student in Computer Science, living in Texas, and currently looking for an opportunity to work full-time as an iOS Developer.</p>
 
 <p>Previously, I was an iOS Engineer at <a href="https://seasoft.asia">SEASOFT Vietnam</a> and <a href="https://www.hdwebsoft.com">HDWEBSOFT</a>, where I have a chance of developed many great mobile applications.</p>
 
-<p>Before this, I was a Bachelor's student at the University of Information Technology, Vietnam National University in Ho Chi Minh City (VNU-HCM).</p>
+<p>Before this, I was an undergraduate student at the University of Information Technology, Vietnam National University in Ho Chi Minh City (VNU-HCM).</p>
 
 <h2>Technical Skills</h2>
 
