@@ -1,5 +1,5 @@
 ---
-title: Country List App
+title: Country List Application
 layout: post
 date: "2020-11-25 19:35:22"
 projects: true
