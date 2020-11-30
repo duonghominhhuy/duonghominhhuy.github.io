@@ -21,7 +21,7 @@ It's important to keep yourself up to date with the fast changing technology. Fr
 
 ### 4 Ways to stay up to date on the latest Apple technology
 
-1. <a href="https://apps.apple.com/us/app/apple-developer/id640199958" target="_blank">Apple Developer app:</a> available on macOS and iOS. Resources for developer stories, news, and educational information — and the best place to experience WWDC.
+1. <a href="https://apps.apple.com/us/app/apple-developer/id640199958" target="_blank">Apple Developer:</a> available on macOS and iOS. Resources for developer stories, news, and educational information — and the best place to experience WWDC.
 
 2. <a href="http://www.raywenderlich.com" target="_blank">raywenderlich.com:</a> The largest and most up-to-date collection of development courses on iOS, Swift, Android, Kotlin, Flutter, Server Side Swift, Unity and more.
 
