@@ -1,11 +1,11 @@
 ---
 title: Keeping Up To Date
 layout: post
-date: '2020-03-19 07:30:00'
+date: "2020-03-19 07:30:00"
 tag:
-- motivation
-- developer
-- programming
+  - motivation
+  - developer
+  - programming
 category: blog
 author: huyduong
 description: Keep yourself up to date with the technology.

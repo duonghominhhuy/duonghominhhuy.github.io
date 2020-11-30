@@ -1,12 +1,12 @@
 ---
 title: Swift Extensions
 layout: post
-date: '2019-03-25 10:30:00'
+date: "2019-03-25 10:30:00"
 projects: true
 tag:
-- library
-- swift
-- framework
+  - library
+  - swift
+  - framework
 category: project
 author: huyduong
 description: Swift Extensions Library.
@@ -14,13 +14,14 @@ description: Swift Extensions Library.
 
 ![Banner](../assets/project/swift-extensions.jpg)
 
- <a href="https://github.com/CodePassion-dev/swift-extensions" target="_blank">Swift Extensions Library</a> is a collection of Swift programming language Extensions for the developers who want to write effective and cleanable Swift code.
+<a href="https://github.com/CodePassion-dev/swift-extensions" target="_blank">Swift Extensions Library</a> is a collection of Swift programming language Extensions for the developers who want to write effective and cleanable Swift code.
 
 ---
 
 ## WHAT'S INSIDE?
 
 ### Swift Foundation
+
 - Array Extensions
 - Date Extensions
 - Double Extensions
@@ -29,6 +30,7 @@ description: Swift Extensions Library.
 - UserDefaults Extensions
 
 ### Swift UIKit
+
 - UIApplication Extensions
 - UIButton Extensions
 - UIColor Extensions

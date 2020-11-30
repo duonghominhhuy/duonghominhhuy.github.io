@@ -1,11 +1,11 @@
 ---
 title: Becoming an iOS Developer
 layout: post
-date: '2019-02-15 18:00:00'
+date: "2019-02-15 18:00:00"
 tag:
-- ios
-- developer
-- programming
+  - ios
+  - developer
+  - programming
 category: blog
 author: huyduong
 description: Getting started to become an iOS developer
@@ -29,6 +29,7 @@ This is a brief introduction showing you some minimum requirements you should pr
         <img class="image" src="/assets/blog/macbook-pro.jpg" alt="Alt Text">
         <figcaption class="caption">MacBook Pro 15-inch</figcaption>
     </div>
+
 </div>
 
 ---
@@ -45,6 +46,7 @@ This is a brief introduction showing you some minimum requirements you should pr
         <p>This is a recommendation, you should have the physical iOS devices like <a href="https://www.apple.com/iphone/" target="_blank">iPhones</a>, <a href="https://www.apple.com/ipad/" target="_blank">iPads</a>, or <a href="https://www.apple.com/watch/" target="_blank">Apple Watch</a> if you are going to develop Watch Apps.</p>
         <p>It's sound like a lot when you are get started the journey but it will be worth it.</p>
     </div>
+
 </div>
 
 ---
@@ -61,6 +63,7 @@ This is a brief introduction showing you some minimum requirements you should pr
         <img class="image" src="/assets/blog/apple-developer-account.png" alt="Alt Text">
         <figcaption class="caption">Apple Developer Account</figcaption>
     </div>
+
 </div>
 
 ---
@@ -76,6 +79,7 @@ This is a brief introduction showing you some minimum requirements you should pr
     <div class="toright">
         <p>Install <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> from the Mac App Store, that's the IDE that you will use to develop Apple native applications including iOS, macOS, tvOS, and watchOS applications.</p>
     </div>
+
 </div>
 
 ---
@@ -92,6 +96,7 @@ This is a brief introduction showing you some minimum requirements you should pr
         <img class="image" src="/assets/blog/swift-language-performance.png" alt="Alt Text">
         <figcaption class="caption">Swift Programming Language</figcaption>
     </div>
+
 </div>
 
 ---
@@ -106,14 +111,16 @@ This is a brief introduction showing you some minimum requirements you should pr
 
     <div class="toright">
         <p>If all things are setted up, let's get started to build your very first Hello World application.</p>
-				<p>Getting your hand dirty, start with small things and you will gain more a long the way.</p>
+    			<p>Getting your hand dirty, start with small things and you will gain more a long the way.</p>
     </div>
+
 </div>
 
 If you have troubles when getting started, let's check out some useful websites below (you will love it).
-1. [Ray Wenderlich](https://www.raywenderlich.com){:target="_blank"}
-2. [AppCoda](https://www.appcoda.com){:target="_blank"}
-3. [Apple Document](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html){:target="_blank"}
+
+1. [Ray Wenderlich](https://www.raywenderlich.com){:target="\_blank"}
+2. [AppCoda](https://www.appcoda.com){:target="\_blank"}
+3. [Apple Document](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html){:target="\_blank"}
 
 ---
 
@@ -129,4 +136,5 @@ If you have troubles when getting started, let's check out some useful websites 
         <img class="image" src="/assets/blog/app-store.png" alt="Alt Text">
         <figcaption class="caption">App Store</figcaption>
     </div>
+
 </div>
