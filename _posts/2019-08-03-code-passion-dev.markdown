@@ -9,7 +9,7 @@ tag:
   - website
 category: project
 author: huyduong
-description: CodePassion.dev Website
+description: A programming and software development website focusing on writing articles about computer science, tips, tricks, and tutorials that may help readers resolve their specific technical problems.
 ---
 
 ![Banner](../assets/project/code-passion-dev.png)

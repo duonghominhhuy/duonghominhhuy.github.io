@@ -2,7 +2,7 @@
 title: Awesome Flutter
 layout: post
 date: "2020-01-25 15:30:00"
-projects: true
+# projects: true
 tag:
   - flutter
   - dart

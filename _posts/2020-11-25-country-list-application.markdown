@@ -9,7 +9,7 @@ tag:
   - appstore
 category: project
 author: huyduong
-description: The Country List Application on App Store
+description: An application designed to help people easily viewing and searching all countries information around the world. This app is available on the App Store for iPhone, iPad, and iPod touch.
 ---
 
 ### Foreword

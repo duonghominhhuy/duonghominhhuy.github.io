@@ -8,12 +8,12 @@ tag:
   - programming
 category: blog
 author: huyduong
-description: Getting started to become an iOS developer
+description: This is a brief article showing some of the minimum requirements you should preapre to become an iOS Developer.
 ---
 
 ### Foreword
 
-This is a brief introduction showing you some minimum requirements you should preapre to become an iOS Developer.
+This is a brief article showing some of the minimum requirements you should preapre to become an iOS Developer.
 
 ---
 

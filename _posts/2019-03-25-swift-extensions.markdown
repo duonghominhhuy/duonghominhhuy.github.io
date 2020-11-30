@@ -9,7 +9,7 @@ tag:
   - framework
 category: project
 author: huyduong
-description: Swift Extensions Library.
+description: Collection of Swift programming language Extensions for the developers who want to write effective and cleanable Swift code.
 ---
 
 ![Banner](../assets/project/swift-extensions.jpg)

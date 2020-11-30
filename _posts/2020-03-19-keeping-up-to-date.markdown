@@ -8,7 +8,7 @@ tag:
   - programming
 category: blog
 author: huyduong
-description: Keep yourself up to date with the technology.
+description: It's important to keep yourself up to date with the fast changing technology. From that, you are ensuring your knowledge won't be out of date and you will stay on top of changing demands of the workplace.
 ---
 
 ### Foreword
