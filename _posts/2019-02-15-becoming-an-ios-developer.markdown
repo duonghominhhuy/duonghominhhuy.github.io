@@ -1,19 +1,20 @@
 ---
 title: Becoming an iOS Developer
 layout: post
-date: "2019-02-15 18:00:00"
+date: '2019-02-15 18:00:00'
 tag:
-  - ios
-  - developer
-  - programming
+- ios
+- developer
+- programming
 category: blog
 author: huyduong
-description: This is a brief article showing some of the minimum requirements you should preapre to become an iOS Developer.
+description: This is a brief article showing some of the minimum requirements you
+  should preapre to become an iOS Developer.
 ---
 
 ### Foreword
 
-This is a brief article showing some of the minimum requirements you should preapre to become an iOS Developer.
+This is a brief article showing some of the minimum requirements you should prepare to become an iOS Developer.
 
 ---
 
@@ -116,7 +117,7 @@ This is a brief article showing some of the minimum requirements you should prea
 
 </div>
 
-If you have troubles when getting started, let's check out some useful websites below (you will love it).
+If you have troubles when getting started, let's check out some of the useful websites below (you will love it).
 
 1. [Ray Wenderlich](https://www.raywenderlich.com){:target="\_blank"}
 2. [AppCoda](https://www.appcoda.com){:target="\_blank"}
