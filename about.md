@@ -5,7 +5,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a grad student in Computer Science, currently living in Dallas-Fort Worth, Texas. Looking for a full-time Mobile Software Engineer position in the U.S.</p>
+<p>I'm a grad student in Computer Science, living in Dallas-Fort Worth, Texas. Looking for a full-time Mobile Software Engineer position.</p>
 
 <p>Previously, I was a Mobile Developer at <a href="https://seasoft.asia">SEASOFT Vietnam</a> and <a href="https://www.hdwebsoft.com">HDWEBSOFT</a>, where I have a chance of developed many great iOS and Android applications.</p>
 
