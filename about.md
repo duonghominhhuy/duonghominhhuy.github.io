@@ -21,5 +21,5 @@ layout: page
 	<li>Databases: Core Data, Realm, SQLite, Firebase, MongoDB.</li>
 	<li>Design Patterns: MVC, MVVM, Singleton, Delegation, Observation.</li>
 	<li>Quality Control: TDD, BDD, Unit Testing, UI Testing.</li>
-	<li>Platforms: iOS, macOS, watchOS, tvOS, Android.</li>
+	<li>Platforms: iOS, macOS, watchOS, tvOS, Android, Web.</li>
 </ul>
